@@ -1,0 +1,18 @@
+.background-image{
+    background-image: url("../../images/image.jpg"); 
+    height: 20rem; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+
+.input-style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15rem;
+}
+
+.btn-style{
+    height: 3rem;
+}
